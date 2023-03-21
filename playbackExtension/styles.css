@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+#speedValue {
+  font-weight: bold;
+}
